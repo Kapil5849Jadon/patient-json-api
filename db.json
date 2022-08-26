@@ -13,7 +13,7 @@
   {
     "id" : 2,
     "img" : "https://tse1.mm.bing.net/th?id=OIP.OOh0PWJjoab-C0l3WQs4ugHaLL&pid=Api&P=0",
-    "name": "harry",
+    "name": "Ancy",
     "age": 20,
     "gender": "male",
     "medicine": {
@@ -24,7 +24,7 @@
   {
     "id" : 3,
     "img" : "https://pixnio.com/free-images/2017/11/30/2017-11-30-18-34-51.jpg",
-    "name": "harry",
+    "name": "Elvin",
     "age": 20,
     "gender": "female",
     "medicine": {
@@ -35,7 +35,7 @@
   {
     "id" : 4,
     "img" : "https://cdn.stocksnap.io/img-thumbs/960w/people-woman_4JMFAHF5YE.jpg",
-    "name": "harry",
+    "name": "Emily",
     "age": 20,
     "gender": "female",
     "medicine": {
@@ -46,7 +46,7 @@
   {
     "id" : 5,
     "img" : "http://images.unsplash.com/photo-1531427186611-ecfd6d936c79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MXxzZWFyY2h8M3x8cHJvZmVzc2lvbmFsJTIwcGVyc29ufHwwfHx8fDE2MzA0NTcyNzI&ixlib=rb-1.2.1&q=80&w=1080",
-    "name": "harry",
+    "name": "David",
     "age": 20,
     "gender": "male",
     "medicine": {
@@ -57,7 +57,7 @@
   {
     "id" : 6,
     "img" : "http://images.unsplash.com/photo-1539090521412-7af9bbc1110b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
-    "name": "harry",
+    "name": "Portrait",
     "age": 20,
     "gender": "male",
     "medicine": {
