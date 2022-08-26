@@ -68,11 +68,13 @@
     }
   ],
 
+  [
   "users" : {
     "id": 2,
     "name": "Kapil Jadon",
     "email": "kapil@gmail.com",
     "password": "Kapil123"
   }
+]
 }
 
