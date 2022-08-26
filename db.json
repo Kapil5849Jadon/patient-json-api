@@ -23,7 +23,7 @@
   },
   {
     "id" : 3,
-    "img" : "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/10/01/12/lonely.jpg?width=982&height=726",
+    "img" : "https://pixnio.com/free-images/2017/11/30/2017-11-30-18-34-51.jpg",
     "name": "harry",
     "age": 20,
     "gender": "female",
@@ -56,7 +56,7 @@
   },
   {
     "id" : 6,
-    "img" : "https://tse2.mm.bing.net/th?id=OIP.286pSwEevacMD4_JaTaRfwHaEL&pid=Api&P=0",
+    "img" : "http://images.unsplash.com/photo-1539090521412-7af9bbc1110b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
     "name": "harry",
     "age": 20,
     "gender": "male",
